@@ -1,0 +1,6 @@
+Z:\RPP\Aggronak\Aggronak\bin\Debug\Aggronak.exe.config
+Z:\RPP\Aggronak\Aggronak\bin\Debug\Aggronak.exe
+Z:\RPP\Aggronak\Aggronak\bin\Debug\Aggronak.pdb
+Z:\RPP\Aggronak\Aggronak\obj\Debug\Aggronak.csprojResolveAssemblyReference.cache
+Z:\RPP\Aggronak\Aggronak\obj\Debug\Aggronak.exe
+Z:\RPP\Aggronak\Aggronak\obj\Debug\Aggronak.pdb
